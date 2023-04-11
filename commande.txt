@@ -7,9 +7,18 @@ java -jar C:\Users\Chouk\Downloads\jenkins.war --httpPort=8088
 
 step 2 
 
-URL de Jenkins :
+URL de Jenkins exp : http://localhost:8088/
 
-http://localhost:8088/
+
+adding ip address for your pc in link Jenkins : 
+
+ipconfig in cmd :
+
+C:\Users\Chouk>ipconfig
+  IPv4 Address. . . . . . . . . . . : 172.21.32.1
+
+
+http://172.21.32.1:8088/
 
 step 3 
 
