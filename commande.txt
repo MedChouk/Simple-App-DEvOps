@@ -1,0 +1,24 @@
+step 1 
+
+Run Jenkins with cmd : verify executive Jenkins.war file in the download folder
+
+java -jar C:\Users\Chouk\Downloads\jenkins.war --httpPort=8088
+
+
+step 2 
+
+URL de Jenkins :
+
+http://localhost:8088/
+
+step 3 
+
+Verify installing Docker with 
+
+Docker --version
+
+step 4 
+
+https://my.webhookrelay.com/chouk/webhooks/6edf55c7-e774-46
+
+
