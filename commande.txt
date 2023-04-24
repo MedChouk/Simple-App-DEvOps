@@ -34,4 +34,6 @@ docker run --name "name image"
 
 docker exec -it "name docker image or id" bash 
 
+docker inspect 
+
 
