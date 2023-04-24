@@ -28,6 +28,10 @@ Docker --version
 
 step 4 
 
-https://my.webhookrelay.com/chouk/webhooks/6edf55c7-e774-46
+docker network ls
+
+docker run --name "name image"
+
+docker exec -it "name docker image or id" bash 
 
 
